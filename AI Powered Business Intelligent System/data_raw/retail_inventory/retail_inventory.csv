@@ -1,0 +1,301 @@
+product_id,product_name,category,unit_price,stock_qty,reorder_level,supplier,warehouse_location,last_restock_date
+P001,Household_Item_1,Household,1073,105,49,ABC Traders,Pune,2025-01-18
+P002,Household_Item_2,Household,1566,450,84,Metro Supply,Indore,2025-05-07
+P003,Beverages_Item_3,Beverages,1140,170,26,Metro Supply,Indore,2025-08-10
+P004,Snacks_Item_4,Snacks,708,289,38,Prime Wholesale,Mumbai,2025-08-11
+P005,Groceries_Item_5,Groceries,1230,67,89,Daily Goods Ltd,Delhi,2025-07-15
+P006,Stationery_Item_6,Stationery,242,269,62,ABC Traders,Pune,2025-07-02
+P007,Snacks_Item_7,Snacks,303,62,59,Metro Supply,Bhopal,2025-04-28
+P008,Groceries_Item_8,Groceries,854,208,91,ABC Traders,Mumbai,2025-07-12
+P009,Stationery_Item_9,Stationery,237,316,82,Metro Supply,Mumbai,2025-03-26
+P010,Household_Item_10,Household,1368,140,91,Metro Supply,Bhopal,2025-02-21
+P011,Stationery_Item_11,Stationery,740,432,31,Daily Goods Ltd,Delhi,2025-08-26
+P012,Snacks_Item_12,Snacks,669,207,49,Prime Wholesale,Bhopal,2025-06-24
+P013,Stationery_Item_13,Stationery,1624,388,97,Daily Goods Ltd,Pune,2025-07-29
+P014,Personal Care_Item_14,Personal Care,1446,189,66,Prime Wholesale,Delhi,2025-02-07
+P015,Household_Item_15,Household,87,244,56,Metro Supply,Indore,2025-04-03
+P016,Stationery_Item_16,Stationery,503,102,76,Prime Wholesale,Mumbai,2025-05-30
+P017,Personal Care_Item_17,Personal Care,185,236,78,Daily Goods Ltd,Delhi,2025-02-07
+P018,Beverages_Item_18,Beverages,1554,457,39,Daily Goods Ltd,Bhopal,2025-08-20
+P019,Beverages_Item_19,Beverages,1293,265,77,Prime Wholesale,Mumbai,2025-03-30
+P020,Groceries_Item_20,Groceries,721,455,60,ABC Traders,Bhopal,2025-09-04
+P021,Stationery_Item_21,Stationery,862,42,73,ABC Traders,Mumbai,2025-03-23
+P022,Household_Item_22,Household,311,468,75,Prime Wholesale,Delhi,2025-03-27
+P023,Groceries_Item_23,Groceries,1037,38,75,Daily Goods Ltd,Delhi,2025-01-08
+P024,Beverages_Item_24,Beverages,1868,213,79,Prime Wholesale,Mumbai,2025-09-05
+P025,Personal Care_Item_25,Personal Care,1796,166,59,Daily Goods Ltd,Indore,2025-06-28
+P026,Household_Item_26,Household,1830,275,80,Daily Goods Ltd,Bhopal,2025-03-26
+P027,Household_Item_27,Household,401,282,92,ABC Traders,Delhi,2025-08-01
+P028,Groceries_Item_28,Groceries,558,488,71,Prime Wholesale,Indore,2025-06-02
+P029,Groceries_Item_29,Groceries,1010,105,61,Prime Wholesale,Bhopal,2025-08-14
+P030,Snacks_Item_30,Snacks,325,422,72,Daily Goods Ltd,Delhi,2025-03-22
+P031,Stationery_Item_31,Stationery,687,34,71,Metro Supply,Delhi,2025-08-17
+P032,Household_Item_32,Household,1812,85,81,Daily Goods Ltd,Mumbai,2025-07-31
+P033,Snacks_Item_33,Snacks,361,386,53,ABC Traders,Indore,2025-02-10
+P034,Beverages_Item_34,Beverages,280,324,83,Metro Supply,Mumbai,2025-03-04
+P035,Household_Item_35,Household,1638,160,81,ABC Traders,Indore,2025-06-20
+P036,Snacks_Item_36,Snacks,1393,303,93,Prime Wholesale,Indore,2025-07-23
+P037,Stationery_Item_37,Stationery,1781,239,31,ABC Traders,Delhi,2025-04-26
+P038,Personal Care_Item_38,Personal Care,638,452,73,Metro Supply,Indore,2025-02-25
+P039,Stationery_Item_39,Stationery,1769,112,37,ABC Traders,Indore,2025-08-14
+P040,Snacks_Item_40,Snacks,799,425,82,Prime Wholesale,Delhi,2025-01-13
+P041,Household_Item_41,Household,433,107,54,Daily Goods Ltd,Indore,2025-05-12
+P042,Household_Item_42,Household,871,386,28,Metro Supply,Delhi,2025-03-23
+P043,Beverages_Item_43,Beverages,315,227,20,Metro Supply,Indore,2025-06-27
+P044,Stationery_Item_44,Stationery,441,307,90,Metro Supply,Indore,2025-04-18
+P045,Groceries_Item_45,Groceries,1191,73,37,Prime Wholesale,Bhopal,2025-03-04
+P046,Stationery_Item_46,Stationery,1285,293,57,Prime Wholesale,Mumbai,2025-03-02
+P047,Groceries_Item_47,Groceries,1774,256,57,Prime Wholesale,Mumbai,2025-07-25
+P048,Groceries_Item_48,Groceries,1295,405,56,Metro Supply,Mumbai,2025-04-03
+P049,Stationery_Item_49,Stationery,1758,342,39,Prime Wholesale,Indore,2025-02-22
+P050,Snacks_Item_50,Snacks,1456,365,49,Prime Wholesale,Delhi,2025-04-05
+P051,Personal Care_Item_51,Personal Care,1189,469,63,ABC Traders,Delhi,2025-03-14
+P052,Groceries_Item_52,Groceries,1469,89,53,Metro Supply,Mumbai,2025-04-28
+P053,Stationery_Item_53,Stationery,1122,418,34,Metro Supply,Indore,2025-04-15
+P054,Household_Item_54,Household,755,468,43,Daily Goods Ltd,Mumbai,2025-04-28
+P055,Snacks_Item_55,Snacks,552,174,98,ABC Traders,Mumbai,2025-05-27
+P056,Beverages_Item_56,Beverages,743,114,52,Daily Goods Ltd,Bhopal,2025-07-05
+P057,Household_Item_57,Household,1411,498,43,Daily Goods Ltd,Indore,2025-08-01
+P058,Personal Care_Item_58,Personal Care,1833,30,73,Daily Goods Ltd,Pune,2025-08-06
+P059,Personal Care_Item_59,Personal Care,1761,483,84,Daily Goods Ltd,Delhi,2025-03-29
+P060,Beverages_Item_60,Beverages,84,425,83,Metro Supply,Delhi,2025-05-28
+P061,Stationery_Item_61,Stationery,1993,62,47,Daily Goods Ltd,Indore,2025-07-01
+P062,Groceries_Item_62,Groceries,916,179,57,Prime Wholesale,Indore,2025-03-27
+P063,Groceries_Item_63,Groceries,136,263,23,Metro Supply,Indore,2025-03-12
+P064,Groceries_Item_64,Groceries,1341,189,23,Daily Goods Ltd,Delhi,2025-04-10
+P065,Beverages_Item_65,Beverages,858,50,49,ABC Traders,Pune,2025-07-27
+P066,Stationery_Item_66,Stationery,617,325,37,ABC Traders,Mumbai,2025-02-19
+P067,Personal Care_Item_67,Personal Care,169,345,56,Daily Goods Ltd,Mumbai,2025-01-30
+P068,Beverages_Item_68,Beverages,425,76,50,Prime Wholesale,Indore,2025-04-11
+P069,Stationery_Item_69,Stationery,1628,176,92,Prime Wholesale,Delhi,2025-03-15
+P070,Personal Care_Item_70,Personal Care,906,179,44,Metro Supply,Pune,2025-08-02
+P071,Beverages_Item_71,Beverages,1438,149,92,Daily Goods Ltd,Pune,2025-07-01
+P072,Snacks_Item_72,Snacks,737,321,22,Metro Supply,Delhi,2025-02-06
+P073,Snacks_Item_73,Snacks,1428,224,51,Daily Goods Ltd,Mumbai,2025-05-28
+P074,Personal Care_Item_74,Personal Care,1123,162,31,Prime Wholesale,Bhopal,2025-05-01
+P075,Snacks_Item_75,Snacks,1589,206,93,Prime Wholesale,Indore,2025-03-08
+P076,Personal Care_Item_76,Personal Care,1713,280,38,ABC Traders,Delhi,2025-04-27
+P077,Groceries_Item_77,Groceries,1874,401,81,Prime Wholesale,Bhopal,2025-02-19
+P078,Household_Item_78,Household,916,75,59,Daily Goods Ltd,Indore,2025-07-28
+P079,Groceries_Item_79,Groceries,1600,233,31,Daily Goods Ltd,Indore,2025-08-02
+P080,Beverages_Item_80,Beverages,1815,81,47,Daily Goods Ltd,Bhopal,2025-06-23
+P081,Groceries_Item_81,Groceries,583,297,54,Metro Supply,Pune,2025-06-18
+P082,Beverages_Item_82,Beverages,1279,128,51,Daily Goods Ltd,Pune,2025-07-18
+P083,Household_Item_83,Household,1646,337,77,ABC Traders,Delhi,2025-05-09
+P084,Stationery_Item_84,Stationery,958,431,45,Daily Goods Ltd,Delhi,2025-01-07
+P085,Beverages_Item_85,Beverages,70,85,99,ABC Traders,Mumbai,2025-06-19
+P086,Beverages_Item_86,Beverages,729,197,32,ABC Traders,Indore,2025-08-07
+P087,Personal Care_Item_87,Personal Care,1521,387,20,ABC Traders,Pune,2025-07-02
+P088,Groceries_Item_88,Groceries,1269,492,34,Metro Supply,Delhi,2025-01-15
+P089,Stationery_Item_89,Stationery,1659,429,98,Metro Supply,Pune,2025-01-21
+P090,Snacks_Item_90,Snacks,1330,286,42,Prime Wholesale,Mumbai,2025-02-25
+P091,Groceries_Item_91,Groceries,1397,35,58,Daily Goods Ltd,Bhopal,2025-02-12
+P092,Groceries_Item_92,Groceries,31,124,98,Prime Wholesale,Bhopal,2025-07-25
+P093,Personal Care_Item_93,Personal Care,1369,353,89,Daily Goods Ltd,Pune,2025-07-14
+P094,Groceries_Item_94,Groceries,1968,443,96,Daily Goods Ltd,Mumbai,2025-03-07
+P095,Groceries_Item_95,Groceries,1303,42,92,ABC Traders,Indore,2025-06-25
+P096,Beverages_Item_96,Beverages,92,103,86,Metro Supply,Mumbai,2025-04-14
+P097,Snacks_Item_97,Snacks,885,429,32,Prime Wholesale,Mumbai,2025-03-20
+P098,Snacks_Item_98,Snacks,607,226,35,Daily Goods Ltd,Bhopal,2025-04-17
+P099,Snacks_Item_99,Snacks,1121,32,83,ABC Traders,Pune,2025-08-18
+P100,Snacks_Item_100,Snacks,1625,462,24,Daily Goods Ltd,Delhi,2025-07-25
+P101,Groceries_Item_101,Groceries,769,445,52,ABC Traders,Delhi,2025-03-11
+P102,Groceries_Item_102,Groceries,326,266,42,ABC Traders,Delhi,2025-08-11
+P103,Snacks_Item_103,Snacks,1951,400,40,ABC Traders,Delhi,2025-01-08
+P104,Personal Care_Item_104,Personal Care,956,413,89,Daily Goods Ltd,Indore,2025-02-27
+P105,Groceries_Item_105,Groceries,1638,255,61,ABC Traders,Indore,2025-08-21
+P106,Beverages_Item_106,Beverages,171,455,86,ABC Traders,Mumbai,2025-07-11
+P107,Household_Item_107,Household,393,85,86,ABC Traders,Delhi,2025-08-02
+P108,Groceries_Item_108,Groceries,653,197,32,Prime Wholesale,Delhi,2025-02-09
+P109,Personal Care_Item_109,Personal Care,686,455,60,ABC Traders,Pune,2025-07-14
+P110,Beverages_Item_110,Beverages,821,216,37,ABC Traders,Pune,2025-08-25
+P111,Snacks_Item_111,Snacks,1859,240,78,Daily Goods Ltd,Bhopal,2025-03-28
+P112,Groceries_Item_112,Groceries,1053,123,71,Daily Goods Ltd,Pune,2025-08-09
+P113,Groceries_Item_113,Groceries,1524,165,24,ABC Traders,Delhi,2025-02-23
+P114,Personal Care_Item_114,Personal Care,807,48,76,Daily Goods Ltd,Pune,2025-06-07
+P115,Stationery_Item_115,Stationery,1649,104,46,Daily Goods Ltd,Mumbai,2025-07-13
+P116,Groceries_Item_116,Groceries,1483,461,20,Prime Wholesale,Delhi,2025-03-06
+P117,Personal Care_Item_117,Personal Care,1730,98,83,ABC Traders,Delhi,2025-01-15
+P118,Personal Care_Item_118,Personal Care,785,279,69,Prime Wholesale,Bhopal,2025-02-09
+P119,Personal Care_Item_119,Personal Care,968,244,40,Prime Wholesale,Bhopal,2025-03-14
+P120,Personal Care_Item_120,Personal Care,1698,464,77,ABC Traders,Pune,2025-08-20
+P121,Groceries_Item_121,Groceries,1819,121,84,Daily Goods Ltd,Pune,2025-07-22
+P122,Groceries_Item_122,Groceries,1100,286,45,Metro Supply,Bhopal,2025-05-31
+P123,Groceries_Item_123,Groceries,951,176,88,Prime Wholesale,Mumbai,2025-01-02
+P124,Household_Item_124,Household,1636,389,82,Prime Wholesale,Indore,2025-08-12
+P125,Groceries_Item_125,Groceries,1488,119,27,Daily Goods Ltd,Mumbai,2025-07-09
+P126,Personal Care_Item_126,Personal Care,532,110,48,ABC Traders,Indore,2025-03-17
+P127,Beverages_Item_127,Beverages,1813,343,79,ABC Traders,Mumbai,2025-06-25
+P128,Personal Care_Item_128,Personal Care,1068,268,82,Metro Supply,Pune,2025-04-23
+P129,Personal Care_Item_129,Personal Care,1786,115,48,Daily Goods Ltd,Pune,2025-08-23
+P130,Household_Item_130,Household,1034,213,23,Daily Goods Ltd,Pune,2025-08-17
+P131,Stationery_Item_131,Stationery,1069,483,68,Daily Goods Ltd,Indore,2025-08-18
+P132,Beverages_Item_132,Beverages,224,102,34,Prime Wholesale,Pune,2025-04-23
+P133,Stationery_Item_133,Stationery,1906,36,78,Prime Wholesale,Delhi,2025-07-13
+P134,Snacks_Item_134,Snacks,1621,70,94,ABC Traders,Indore,2025-02-14
+P135,Beverages_Item_135,Beverages,1600,334,57,Metro Supply,Delhi,2025-03-31
+P136,Household_Item_136,Household,223,217,24,Daily Goods Ltd,Mumbai,2025-05-06
+P137,Snacks_Item_137,Snacks,1510,182,72,ABC Traders,Bhopal,2025-01-22
+P138,Snacks_Item_138,Snacks,125,256,44,Prime Wholesale,Bhopal,2025-05-01
+P139,Beverages_Item_139,Beverages,708,287,97,Daily Goods Ltd,Indore,2025-05-17
+P140,Groceries_Item_140,Groceries,1209,149,48,Prime Wholesale,Delhi,2025-03-16
+P141,Snacks_Item_141,Snacks,1082,101,93,Metro Supply,Pune,2025-01-30
+P142,Household_Item_142,Household,1340,286,89,Metro Supply,Pune,2025-02-14
+P143,Beverages_Item_143,Beverages,810,352,99,ABC Traders,Indore,2025-05-04
+P144,Snacks_Item_144,Snacks,668,94,46,ABC Traders,Pune,2025-02-11
+P145,Beverages_Item_145,Beverages,776,64,85,ABC Traders,Mumbai,2025-04-22
+P146,Personal Care_Item_146,Personal Care,1164,493,40,Prime Wholesale,Pune,2025-02-06
+P147,Snacks_Item_147,Snacks,1473,62,67,ABC Traders,Indore,2025-03-20
+P148,Groceries_Item_148,Groceries,1964,297,57,Prime Wholesale,Indore,2025-04-28
+P149,Household_Item_149,Household,1461,436,76,ABC Traders,Bhopal,2025-08-19
+P150,Stationery_Item_150,Stationery,483,312,96,Daily Goods Ltd,Bhopal,2025-05-09
+P151,Personal Care_Item_151,Personal Care,465,173,56,Daily Goods Ltd,Delhi,2025-02-04
+P152,Personal Care_Item_152,Personal Care,674,379,54,Daily Goods Ltd,Delhi,2025-02-15
+P153,Groceries_Item_153,Groceries,251,96,25,Metro Supply,Mumbai,2025-07-15
+P154,Stationery_Item_154,Stationery,1975,242,91,Prime Wholesale,Indore,2025-07-29
+P155,Stationery_Item_155,Stationery,1641,276,89,ABC Traders,Mumbai,2025-03-26
+P156,Personal Care_Item_156,Personal Care,876,435,57,Daily Goods Ltd,Mumbai,2025-05-19
+P157,Beverages_Item_157,Beverages,588,467,25,Metro Supply,Pune,2025-04-24
+P158,Beverages_Item_158,Beverages,1407,174,24,Metro Supply,Mumbai,2025-04-26
+P159,Household_Item_159,Household,40,119,53,Metro Supply,Pune,2025-06-22
+P160,Personal Care_Item_160,Personal Care,1046,112,87,Prime Wholesale,Pune,2025-05-04
+P161,Household_Item_161,Household,329,360,24,ABC Traders,Pune,2025-05-29
+P162,Stationery_Item_162,Stationery,723,216,59,Daily Goods Ltd,Mumbai,2025-03-27
+P163,Snacks_Item_163,Snacks,157,204,56,ABC Traders,Bhopal,2025-07-18
+P164,Stationery_Item_164,Stationery,1551,150,87,Daily Goods Ltd,Mumbai,2025-08-24
+P165,Personal Care_Item_165,Personal Care,1683,371,45,Prime Wholesale,Mumbai,2025-03-11
+P166,Snacks_Item_166,Snacks,630,434,88,Daily Goods Ltd,Mumbai,2025-08-19
+P167,Snacks_Item_167,Snacks,1898,355,82,ABC Traders,Mumbai,2025-07-13
+P168,Personal Care_Item_168,Personal Care,1923,481,86,Metro Supply,Indore,2025-06-23
+P169,Personal Care_Item_169,Personal Care,205,444,72,ABC Traders,Indore,2025-07-12
+P170,Snacks_Item_170,Snacks,840,333,31,Daily Goods Ltd,Indore,2025-02-09
+P171,Groceries_Item_171,Groceries,1437,368,72,Daily Goods Ltd,Bhopal,2025-07-16
+P172,Personal Care_Item_172,Personal Care,219,408,54,Metro Supply,Indore,2025-01-08
+P173,Household_Item_173,Household,1970,149,49,ABC Traders,Indore,2025-07-11
+P174,Groceries_Item_174,Groceries,327,128,32,Prime Wholesale,Indore,2025-02-08
+P175,Beverages_Item_175,Beverages,150,257,69,Prime Wholesale,Pune,2025-06-27
+P176,Personal Care_Item_176,Personal Care,1409,76,36,Metro Supply,Mumbai,2025-05-03
+P177,Groceries_Item_177,Groceries,637,479,72,Prime Wholesale,Delhi,2025-09-03
+P178,Snacks_Item_178,Snacks,589,103,92,Metro Supply,Bhopal,2025-07-01
+P179,Groceries_Item_179,Groceries,1040,313,61,Metro Supply,Indore,2025-01-19
+P180,Snacks_Item_180,Snacks,1695,419,43,Daily Goods Ltd,Delhi,2025-09-02
+P181,Beverages_Item_181,Beverages,1435,125,72,Prime Wholesale,Mumbai,2025-04-16
+P182,Groceries_Item_182,Groceries,321,291,89,Daily Goods Ltd,Pune,2025-03-30
+P183,Groceries_Item_183,Groceries,1506,487,39,ABC Traders,Mumbai,2025-06-18
+P184,Beverages_Item_184,Beverages,834,495,45,Prime Wholesale,Mumbai,2025-08-10
+P185,Household_Item_185,Household,1346,245,94,Metro Supply,Indore,2025-04-18
+P186,Beverages_Item_186,Beverages,954,212,28,Metro Supply,Mumbai,2025-04-23
+P187,Personal Care_Item_187,Personal Care,699,239,89,ABC Traders,Bhopal,2025-01-09
+P188,Snacks_Item_188,Snacks,1759,221,65,ABC Traders,Mumbai,2025-07-07
+P189,Snacks_Item_189,Snacks,261,83,42,Metro Supply,Bhopal,2025-05-03
+P190,Household_Item_190,Household,1400,479,60,ABC Traders,Bhopal,2025-06-13
+P191,Household_Item_191,Household,1496,302,25,Metro Supply,Bhopal,2025-02-21
+P192,Groceries_Item_192,Groceries,619,330,89,Metro Supply,Pune,2025-01-16
+P193,Stationery_Item_193,Stationery,1765,117,29,ABC Traders,Delhi,2025-06-17
+P194,Groceries_Item_194,Groceries,272,88,90,ABC Traders,Pune,2025-06-19
+P195,Personal Care_Item_195,Personal Care,1856,40,30,Metro Supply,Delhi,2025-04-06
+P196,Snacks_Item_196,Snacks,651,65,32,Metro Supply,Pune,2025-02-20
+P197,Stationery_Item_197,Stationery,1286,286,73,ABC Traders,Mumbai,2025-03-10
+P198,Groceries_Item_198,Groceries,902,392,23,Daily Goods Ltd,Indore,2025-01-29
+P199,Groceries_Item_199,Groceries,1378,287,66,Metro Supply,Pune,2025-03-26
+P200,Personal Care_Item_200,Personal Care,1462,124,26,Prime Wholesale,Indore,2025-08-03
+P201,Stationery_Item_201,Stationery,1663,158,58,Daily Goods Ltd,Delhi,2025-02-25
+P202,Groceries_Item_202,Groceries,239,441,78,Prime Wholesale,Pune,2025-05-12
+P203,Personal Care_Item_203,Personal Care,1388,196,44,Metro Supply,Delhi,2025-05-13
+P204,Stationery_Item_204,Stationery,1786,388,38,ABC Traders,Indore,2025-08-22
+P205,Household_Item_205,Household,1161,95,28,Metro Supply,Indore,2025-05-11
+P206,Household_Item_206,Household,224,41,55,Daily Goods Ltd,Indore,2025-03-10
+P207,Personal Care_Item_207,Personal Care,604,33,85,ABC Traders,Pune,2025-06-02
+P208,Snacks_Item_208,Snacks,1959,433,61,Prime Wholesale,Delhi,2025-08-19
+P209,Stationery_Item_209,Stationery,724,319,85,Daily Goods Ltd,Bhopal,2025-07-06
+P210,Stationery_Item_210,Stationery,1855,375,61,Prime Wholesale,Bhopal,2025-08-05
+P211,Household_Item_211,Household,628,397,37,Metro Supply,Indore,2025-04-05
+P212,Snacks_Item_212,Snacks,170,242,88,Daily Goods Ltd,Indore,2025-06-19
+P213,Beverages_Item_213,Beverages,1207,283,21,ABC Traders,Delhi,2025-04-14
+P214,Groceries_Item_214,Groceries,222,475,29,Daily Goods Ltd,Indore,2025-05-24
+P215,Snacks_Item_215,Snacks,927,358,97,Daily Goods Ltd,Delhi,2025-07-08
+P216,Household_Item_216,Household,618,137,35,Metro Supply,Mumbai,2025-04-17
+P217,Snacks_Item_217,Snacks,199,281,51,Daily Goods Ltd,Delhi,2025-06-15
+P218,Groceries_Item_218,Groceries,1489,451,64,ABC Traders,Bhopal,2025-01-26
+P219,Household_Item_219,Household,91,135,49,ABC Traders,Pune,2025-04-07
+P220,Stationery_Item_220,Stationery,1094,489,30,Prime Wholesale,Mumbai,2025-08-24
+P221,Beverages_Item_221,Beverages,108,301,27,Prime Wholesale,Delhi,2025-02-22
+P222,Snacks_Item_222,Snacks,296,50,33,Metro Supply,Delhi,2025-03-16
+P223,Household_Item_223,Household,1722,264,62,Prime Wholesale,Delhi,2025-03-21
+P224,Stationery_Item_224,Stationery,640,405,84,Prime Wholesale,Mumbai,2025-05-15
+P225,Groceries_Item_225,Groceries,1982,212,52,Metro Supply,Delhi,2025-08-20
+P226,Beverages_Item_226,Beverages,242,376,62,ABC Traders,Delhi,2025-02-08
+P227,Household_Item_227,Household,1484,237,85,ABC Traders,Indore,2025-06-10
+P228,Beverages_Item_228,Beverages,314,107,56,Daily Goods Ltd,Pune,2025-03-03
+P229,Personal Care_Item_229,Personal Care,1967,206,34,Metro Supply,Delhi,2025-02-10
+P230,Personal Care_Item_230,Personal Care,542,243,74,Metro Supply,Delhi,2025-07-20
+P231,Household_Item_231,Household,990,30,93,ABC Traders,Mumbai,2025-03-16
+P232,Stationery_Item_232,Stationery,1986,311,76,ABC Traders,Indore,2025-04-23
+P233,Beverages_Item_233,Beverages,1386,112,57,Prime Wholesale,Bhopal,2025-08-02
+P234,Groceries_Item_234,Groceries,153,237,53,Prime Wholesale,Indore,2025-07-27
+P235,Household_Item_235,Household,1831,181,86,Prime Wholesale,Mumbai,2025-02-05
+P236,Household_Item_236,Household,1812,331,55,Prime Wholesale,Indore,2025-01-05
+P237,Household_Item_237,Household,1567,293,30,ABC Traders,Pune,2025-08-10
+P238,Stationery_Item_238,Stationery,836,47,81,Metro Supply,Bhopal,2025-06-06
+P239,Beverages_Item_239,Beverages,502,465,83,Prime Wholesale,Indore,2025-06-17
+P240,Personal Care_Item_240,Personal Care,886,149,65,ABC Traders,Delhi,2025-06-08
+P241,Personal Care_Item_241,Personal Care,1064,108,92,Prime Wholesale,Delhi,2025-02-20
+P242,Stationery_Item_242,Stationery,1173,37,65,Metro Supply,Bhopal,2025-07-10
+P243,Snacks_Item_243,Snacks,133,124,73,Daily Goods Ltd,Bhopal,2025-06-03
+P244,Groceries_Item_244,Groceries,1234,133,63,Metro Supply,Mumbai,2025-05-07
+P245,Personal Care_Item_245,Personal Care,1070,65,38,Daily Goods Ltd,Pune,2025-01-29
+P246,Groceries_Item_246,Groceries,1207,141,82,ABC Traders,Pune,2025-02-02
+P247,Beverages_Item_247,Beverages,1088,107,89,Daily Goods Ltd,Bhopal,2025-07-14
+P248,Beverages_Item_248,Beverages,749,259,58,ABC Traders,Indore,2025-04-12
+P249,Snacks_Item_249,Snacks,1084,455,98,ABC Traders,Bhopal,2025-08-29
+P250,Household_Item_250,Household,1586,419,84,Daily Goods Ltd,Pune,2025-01-11
+P251,Snacks_Item_251,Snacks,991,389,25,Prime Wholesale,Indore,2025-07-06
+P252,Stationery_Item_252,Stationery,27,273,20,Prime Wholesale,Mumbai,2025-01-15
+P253,Personal Care_Item_253,Personal Care,1587,371,60,Metro Supply,Delhi,2025-05-25
+P254,Stationery_Item_254,Stationery,1511,480,20,Daily Goods Ltd,Delhi,2025-02-02
+P255,Personal Care_Item_255,Personal Care,1858,111,95,Prime Wholesale,Indore,2025-03-04
+P256,Snacks_Item_256,Snacks,1155,366,49,Daily Goods Ltd,Indore,2025-09-05
+P257,Stationery_Item_257,Stationery,351,207,43,Daily Goods Ltd,Delhi,2025-04-26
+P258,Household_Item_258,Household,1614,51,30,ABC Traders,Delhi,2025-05-27
+P259,Stationery_Item_259,Stationery,953,358,31,Metro Supply,Bhopal,2025-07-11
+P260,Personal Care_Item_260,Personal Care,1184,210,58,Prime Wholesale,Pune,2025-04-04
+P261,Personal Care_Item_261,Personal Care,599,105,97,Daily Goods Ltd,Pune,2025-04-25
+P262,Beverages_Item_262,Beverages,1202,280,37,ABC Traders,Delhi,2025-08-22
+P263,Stationery_Item_263,Stationery,1408,387,54,ABC Traders,Indore,2025-05-14
+P264,Groceries_Item_264,Groceries,1033,434,51,Daily Goods Ltd,Indore,2025-08-28
+P265,Personal Care_Item_265,Personal Care,1433,33,35,Daily Goods Ltd,Bhopal,2025-01-22
+P266,Household_Item_266,Household,1003,67,20,ABC Traders,Delhi,2025-08-06
+P267,Household_Item_267,Household,261,476,55,Daily Goods Ltd,Pune,2025-07-21
+P268,Personal Care_Item_268,Personal Care,1641,397,78,Prime Wholesale,Bhopal,2025-09-05
+P269,Beverages_Item_269,Beverages,1287,39,47,Prime Wholesale,Indore,2025-03-02
+P270,Household_Item_270,Household,686,343,49,Metro Supply,Pune,2025-02-24
+P271,Beverages_Item_271,Beverages,656,79,58,Daily Goods Ltd,Delhi,2025-01-28
+P272,Snacks_Item_272,Snacks,44,126,75,Daily Goods Ltd,Pune,2025-09-06
+P273,Personal Care_Item_273,Personal Care,678,295,49,Prime Wholesale,Indore,2025-01-07
+P274,Household_Item_274,Household,925,176,37,ABC Traders,Pune,2025-03-16
+P275,Stationery_Item_275,Stationery,217,366,97,Prime Wholesale,Mumbai,2025-05-07
+P276,Groceries_Item_276,Groceries,815,229,82,Prime Wholesale,Indore,2025-06-14
+P277,Household_Item_277,Household,1776,206,47,Prime Wholesale,Indore,2025-04-04
+P278,Groceries_Item_278,Groceries,1857,451,26,Daily Goods Ltd,Bhopal,2025-06-06
+P279,Household_Item_279,Household,1554,439,59,Metro Supply,Delhi,2025-06-25
+P280,Snacks_Item_280,Snacks,1433,362,30,ABC Traders,Bhopal,2025-06-08
+P281,Groceries_Item_281,Groceries,1610,71,52,ABC Traders,Pune,2025-03-15
+P282,Groceries_Item_282,Groceries,744,315,81,Prime Wholesale,Delhi,2025-07-04
+P283,Household_Item_283,Household,318,31,48,Metro Supply,Delhi,2025-05-31
+P284,Personal Care_Item_284,Personal Care,1346,235,41,Prime Wholesale,Bhopal,2025-04-03
+P285,Stationery_Item_285,Stationery,650,435,61,Daily Goods Ltd,Indore,2025-02-15
+P286,Groceries_Item_286,Groceries,1118,432,44,Daily Goods Ltd,Mumbai,2025-01-21
+P287,Groceries_Item_287,Groceries,900,312,46,ABC Traders,Bhopal,2025-06-15
+P288,Snacks_Item_288,Snacks,295,120,45,Metro Supply,Bhopal,2025-04-09
+P289,Beverages_Item_289,Beverages,110,116,68,Prime Wholesale,Delhi,2025-05-17
+P290,Personal Care_Item_290,Personal Care,1396,164,91,Daily Goods Ltd,Pune,2025-06-15
+P291,Groceries_Item_291,Groceries,1645,41,62,Daily Goods Ltd,Mumbai,2025-07-13
+P292,Household_Item_292,Household,1872,264,64,Metro Supply,Bhopal,2025-04-28
+P293,Beverages_Item_293,Beverages,497,315,43,ABC Traders,Bhopal,2025-03-29
+P294,Personal Care_Item_294,Personal Care,1182,68,81,Prime Wholesale,Bhopal,2025-07-17
+P295,Beverages_Item_295,Beverages,1426,392,98,Metro Supply,Delhi,2025-04-07
+P296,Stationery_Item_296,Stationery,770,367,65,Daily Goods Ltd,Mumbai,2025-04-27
+P297,Snacks_Item_297,Snacks,463,143,35,ABC Traders,Pune,2025-06-14
+P298,Stationery_Item_298,Stationery,46,243,35,Prime Wholesale,Delhi,2025-02-16
+P299,Beverages_Item_299,Beverages,1216,456,70,Prime Wholesale,Pune,2025-05-23
+P300,Beverages_Item_300,Beverages,876,351,69,Daily Goods Ltd,Delhi,2025-04-23
